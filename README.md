@@ -1,1 +1,1 @@
-# Javascript-HW
+# Javascript code
